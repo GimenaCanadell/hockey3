@@ -1,0 +1,17 @@
+*{
+    padding: 5px;
+    margin: 5px;
+}
+header{
+    position: relative;
+    left: 300px;
+}
+body{
+display: block;
+background-color: white;
+width: 50%;
+height: 70%;
+position: relative;
+left: 500px;
+}
+
